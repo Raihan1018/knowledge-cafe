@@ -1,12 +1,16 @@
 import React from "react";
 import Header from "./components/Header";
 import Blogs from "./components/Blogs";
+import BookMarks from "./components/BookMarks";
 
 const App = () => {
   return (
-    <div>
+    <div className="max-w-6xl mx-auto p-5">
       <Header />
-      <Blogs />
+      <div className="md:flex">
+        <Blogs />
+        <BookMarks />
+      </div>
     </div>
   );
 };

@@ -10,7 +10,7 @@ const Blogs = () => {
       .catch((error) => console.log(error));
   }, []);
   return (
-    <div>
+    <div className="md:w-2/3">
       <h2>Blogs : {blogs.length}</h2>
     </div>
   );
