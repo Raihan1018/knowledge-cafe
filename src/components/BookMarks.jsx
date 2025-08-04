@@ -2,7 +2,7 @@ import React from "react";
 
 const BookMarks = () => {
   return (
-    <div className="md:w-1/3">
+    <div className="md:w-1/3 my-5">
       <h2>BookMarks</h2>
     </div>
   );
