@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "title": "The Future of AI and Technology",
+    "cover_img": "https://images.unsplash.com/photo-1518779578993-ec3579fee39f",
+    "posted_date": "2025-08-01",
+    "reading_time": 4,
+    "hash_tag": ["#technology", "#innovation"]
+  },
+  {
+    "id": 2,
+    "title": "5 Habits for a Healthier Life",
+    "cover_img": "https://images.unsplash.com/photo-1505751172876-fa1923c5c528",
+    "posted_date": "2025-07-28",
+    "reading_time": 6,
+    "hash_tag": ["#health", "#wellness"]
+  },
+  {
+    "id": 3,
+    "title": "Top Travel Destinations for 2025",
+    "cover_img": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
+    "posted_date": "2025-07-25",
+    "reading_time": 3,
+    "hash_tag": ["#travel", "#adventure"]
+  },
+  {
+    "id": 4,
+    "title": "How to Build a Productive Morning Routine",
+    "cover_img": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c",
+    "posted_date": "2025-07-22",
+    "reading_time": 5,
+    "hash_tag": ["#lifestyle", "#productivity"]
+  },
+  {
+    "id": 5,
+    "title": "Beginner’s Guide to JavaScript",
+    "cover_img": "https://images.unsplash.com/photo-1581093588401-9fe8fe9e2b35",
+    "posted_date": "2025-07-20",
+    "reading_time": 2,
+    "hash_tag": ["#coding", "#javascript"]
+  }
+]
